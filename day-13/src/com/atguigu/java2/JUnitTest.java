@@ -1,7 +1,5 @@
 package com.atguigu.java2;
 
-import java.util.Date;
-
 import org.junit.Test;
 
 /*

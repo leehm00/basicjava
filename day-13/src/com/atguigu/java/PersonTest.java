@@ -1,7 +1,5 @@
 package com.atguigu.java;
 
-import java.util.Date;
-
 /*
  * 面向对象特征之三：多态性
  * 
